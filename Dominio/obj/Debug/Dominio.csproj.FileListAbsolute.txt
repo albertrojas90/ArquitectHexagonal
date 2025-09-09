@@ -1,0 +1,10 @@
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\Dominio\bin\Debug\Dominio.dll
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\Dominio\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\Dominio\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\Dominio\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\Dominio\obj\Debug\Dominio.csproj.Up2Date
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\Dominio\obj\Debug\Dominio.dll
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\Dominio\obj\Debug\Dominio.pdb

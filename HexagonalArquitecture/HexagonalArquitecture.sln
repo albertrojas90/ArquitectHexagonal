@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "..\Dominio\Domin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonRepository", "..\JsonRepository\JsonRepository.csproj", "{F85CA9BB-EF4C-4A9B-A09D-318C2BCEA599}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "..\ConsoleApp\ConsoleApp.csproj", "{5D6D8B6C-AFDA-4637-AAE0-2471BB7DB428}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F85CA9BB-EF4C-4A9B-A09D-318C2BCEA599}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F85CA9BB-EF4C-4A9B-A09D-318C2BCEA599}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F85CA9BB-EF4C-4A9B-A09D-318C2BCEA599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D6D8B6C-AFDA-4637-AAE0-2471BB7DB428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D6D8B6C-AFDA-4637-AAE0-2471BB7DB428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D6D8B6C-AFDA-4637-AAE0-2471BB7DB428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D6D8B6C-AFDA-4637-AAE0-2471BB7DB428}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

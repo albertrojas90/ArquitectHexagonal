@@ -1,0 +1,15 @@
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\HexagonalArquitecture\bin\Debug\net8.0\HexagonalArquitecture.exe
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\HexagonalArquitecture\bin\Debug\net8.0\HexagonalArquitecture.deps.json
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\HexagonalArquitecture\bin\Debug\net8.0\HexagonalArquitecture.runtimeconfig.json
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\HexagonalArquitecture\bin\Debug\net8.0\HexagonalArquitecture.dll
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\HexagonalArquitecture\bin\Debug\net8.0\HexagonalArquitecture.pdb
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\HexagonalArquitecture\obj\Debug\net8.0\HexagonalArquitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\HexagonalArquitecture\obj\Debug\net8.0\HexagonalArquitecture.AssemblyInfoInputs.cache
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\HexagonalArquitecture\obj\Debug\net8.0\HexagonalArquitecture.AssemblyInfo.cs
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\HexagonalArquitecture\obj\Debug\net8.0\HexagonalArquitecture.csproj.CoreCompileInputs.cache
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\HexagonalArquitecture\obj\Debug\net8.0\HexagonalArquitecture.sourcelink.json
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\HexagonalArquitecture\obj\Debug\net8.0\HexagonalArquitecture.dll
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\HexagonalArquitecture\obj\Debug\net8.0\refint\HexagonalArquitecture.dll
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\HexagonalArquitecture\obj\Debug\net8.0\HexagonalArquitecture.pdb
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\HexagonalArquitecture\obj\Debug\net8.0\HexagonalArquitecture.genruntimeconfig.cache
+C:\Users\Rentadvisor\Documents\GitHub_alb\ArquitectHexagonal\HexagonalArquitecture\obj\Debug\net8.0\ref\HexagonalArquitecture.dll

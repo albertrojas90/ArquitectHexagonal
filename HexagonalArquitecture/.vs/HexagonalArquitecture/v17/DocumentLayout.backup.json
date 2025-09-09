@@ -3,10 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Rentadvisor\\Documents\\GitHub_alb\\ArquitectHexagonal\\HexagonalArquitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91E0CE76-4FAD-4247-BA1B-FF528097CAA2}|..\\Dominio\\Dominio.csproj|c:\\users\\rentadvisor\\documents\\github_alb\\arquitecthexagonal\\dominio\\ports\\secundary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F85CA9BB-EF4C-4A9B-A09D-318C2BCEA599}|..\\JsonRepository\\JsonRepository.csproj|c:\\users\\rentadvisor\\documents\\github_alb\\arquitecthexagonal\\jsonrepository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91E0CE76-4FAD-4247-BA1B-FF528097CAA2}|..\\Dominio\\Dominio.csproj|c:\\users\\rentadvisor\\documents\\github_alb\\arquitecthexagonal\\dominio\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D6D8B6C-AFDA-4637-AAE0-2471BB7DB428}|..\\ConsoleApp\\ConsoleApp.csproj|c:\\users\\rentadvisor\\documents\\github_alb\\arquitecthexagonal\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD5CEF50-0651-4DE5-8CE7-B8FC6EF4FC41}|HexagonalArquitecture.csproj|c:\\users\\rentadvisor\\documents\\github_alb\\arquitecthexagonal\\hexagonalarquitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,27 +25,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Rentadvisor\\Documents\\GitHub_alb\\ArquitectHexagonal\\Dominio\\Ports\\Secundary\\IRepository.cs",
-              "RelativeDocumentMoniker": "..\\Dominio\\Ports\\Secundary\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Rentadvisor\\Documents\\GitHub_alb\\ArquitectHexagonal\\Dominio\\Ports\\Secundary\\IRepository.cs",
-              "RelativeToolTip": "..\\Dominio\\Ports\\Secundary\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rentadvisor\\Documents\\GitHub_alb\\ArquitectHexagonal\\JsonRepository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\JsonRepository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Rentadvisor\\Documents\\GitHub_alb\\ArquitectHexagonal\\JsonRepository\\ProductRepository.cs",
+              "RelativeToolTip": "..\\JsonRepository\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T15:13:17.529Z",
+              "WhenOpened": "2025-09-09T15:48:55.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Rentadvisor\\Documents\\GitHub_alb\\ArquitectHexagonal\\Dominio\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "..\\Dominio\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\Rentadvisor\\Documents\\GitHub_alb\\ArquitectHexagonal\\Dominio\\Entities\\Product.cs",
-              "RelativeToolTip": "..\\Dominio\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAaAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rentadvisor\\Documents\\GitHub_alb\\ArquitectHexagonal\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Rentadvisor\\Documents\\GitHub_alb\\ArquitectHexagonal\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T14:06:52.103Z",
+              "WhenOpened": "2025-09-08T15:19:58.029Z",
               "EditorCaption": ""
             },
             {
@@ -56,9 +56,9 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Rentadvisor\\Documents\\GitHub_alb\\ArquitectHexagonal\\HexagonalArquitecture\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T13:57:06.764Z",
+              "WhenOpened": "2025-09-08T16:41:17.947Z",
               "EditorCaption": ""
             }
           ]

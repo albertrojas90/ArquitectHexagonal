@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rksFziefC/s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rentadvisor\\Documents\\GitHub_alb\\ArquitectHexagonal\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rentadvisor\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.9\\microsoft.extensions.dependencyinjection.9.0.9.nupkg.sha512",
+    "C:\\Users\\Rentadvisor\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

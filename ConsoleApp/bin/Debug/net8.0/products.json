@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "c575a971-42f7-4184-aad6-8cb4ada0f40a",
+    "Name": "papas",
+    "Price": 333
+  },
+  {
+    "Id": "ffffef08-8a9d-4163-8048-33d44c9521cf",
+    "Name": "papas",
+    "Price": 200
+  },
+  {
+    "Id": "c436fb5e-8057-4169-8010-152066110b7d",
+    "Name": "zanahorias",
+    "Price": 4500
+  },
+  {
+    "Id": "32a22e03-0ce0-48d2-9fde-f43e84fd65c6",
+    "Name": "ajos",
+    "Price": 300
+  }
+]

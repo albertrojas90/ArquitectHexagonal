@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HexagonalArquitecture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95e110103b8ef0d1008f55863ba814cf113790e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb80b76fb0fd5a6b327f345e7d4be985cb733b8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("HexagonalArquitecture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HexagonalArquitecture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
